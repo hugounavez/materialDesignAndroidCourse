@@ -19,12 +19,13 @@ Aquí presento la imagen de la aplicación resultante y el fragmento de colores 
 
 El código es el siguiente:
 
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#00BCD4</color>
     <color name="colorPrimaryDark">#0097A7</color>
-    <color name="colorAccent">#795548</color>
+    <color name="colorAccent">#FF5722</color>
 </resources>
 
 ```
@@ -37,7 +38,7 @@ La segunda opción, basándome más en la frecuencia de los colores de la imagen
 <resources>
     <color name="colorPrimary">#00BCD4</color>
     <color name="colorPrimaryDark">#0097A7</color>
-    <color name="colorAccent">#FF5722</color>
+    <color name="colorAccent">#795548</color>
 </resources>
 
 ```

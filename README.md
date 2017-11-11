@@ -2,6 +2,7 @@
 El presente repositorio contiene los screens requeridos para la tarea de la primera semana del Curso de Desarrollo de Aplicaciones en Android por la Universidad Autónoma de México.
 
 A partir de la imagen:
+
 ![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/o9aN7gWSEeaaqg5MSeYjIQ_521424d79698bfb8722baa94062502d9_revisionporpares1_Curso3.png?expiry=1510531200000&hmac=zUw4UVe4gCDM8Yl7JCwkkeY_GcPs7LZ7YxW0HdugFCY)
 
 Se deben seleccionar los colores para la aplicación, que estén en armonía con la identidad corporativa de la imagen.
